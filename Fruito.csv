@@ -1,0 +1,14 @@
+,Sr.No,Fruit,Price/kg,Amount,Month
+0,1.0,Mango,120.0,6800,MAY
+1,2.0,Mango,200.0,7200,JUNE
+2,3.0,Mango,220.0,8900,JULY
+3,4.0,Mango,240.0,10000,AUGUST
+4,5.0,Mango,260.0,6500,SEPTEMBER
+5,6.0,Mango,,0,OCTOBER
+6,7.0,Mango,,0,NOVEMBER
+7,8.0,Mango,,0,DECEMBER
+8,9.0,Mango,,0,JANUARY
+9,10.0,Mango,,0,FEBURARY
+10,11.0,Mango,,0,MARCH
+11,12.0,Mango,,0,APRIL
+12,,,,s,
